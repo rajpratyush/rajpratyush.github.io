@@ -384,6 +384,7 @@ nav {
 }
 
 .adventure-grid-item p {
+	text-align: center;
     color: rgba(0, 0, 0, 0.699);
 }
 
