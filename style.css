@@ -377,6 +377,7 @@ nav {
 
 .adventure-grid {
     display: grid;
+	text-align: center;
     grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
     grid-gap: 0.5rem;
     margin-bottom: 2rem;
