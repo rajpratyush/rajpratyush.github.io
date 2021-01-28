@@ -326,7 +326,7 @@ nav {
     -moz-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     -o-transform: translate(-50%, -50%);
-    text-align: center;
+    text-align: left;
 }
 
 .testimonial-text-box {
